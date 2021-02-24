@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hey there 👋
+----------
 
-<!--
-**yellowstorm/yellowstorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a C# Developer and Game Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%23-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-VB6-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Delphi-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL%20Server-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Oracle-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Html-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Css-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Jquery-informational?style=plasctic&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tool-Visual%20Studio-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-SSIS-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-SSRS-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Subversion-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Git-informational?style=plasctic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Tortoise-informational?style=plasctic&logoColor=white&color=2bbc8a)
+## 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowstorm&theme=dark&show_icons=true)](https://github.com/yellowstorm/github-readme-stats)
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowstorm&theme=dark&show_icons=true)](https://github.com/yellowstorm/github-readme-stats)
