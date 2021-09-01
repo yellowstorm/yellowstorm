@@ -25,6 +25,6 @@ I'm a C# Developer and Game Developer
 ![](https://img.shields.io/badge/Tool-Tortoise-informational?style=plasctic&logoColor=white&color=2bbc8a)
 ## 📈 GitHub Stats
 <div>
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowstorm&theme=dark&show_icons=true"/>
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=yellowstorm&theme=dark&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowstorm&theme=dark&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yellowstorm&theme=dark&show_icons=true"/>
 </div>
